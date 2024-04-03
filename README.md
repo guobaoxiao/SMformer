@@ -1,2 +1,2 @@
 # SMformer
-# Code to be open sourced
+Code to be open sourced
